@@ -1,12 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kemal Bećarević
 =======================================================================================================================================
 
-Aspiring Full Stack Web Developer | Learning Enthusiast
+Aspiring Software Engineer | Learning Enthusiast
 -------------------------------------------------------
 
 * 🌍  I'm based in Sarajevo
+* 🎓  Studying at Elektrotehnički fakultet Sarajevo
 * ✉️  You can contact me at [kemal@becarevic.net](mailto:kemal@becarevic.net)
-* 🧠  Currently learning Typescript
+* 🧠  Currently working on Baklava programming language.
 
 ### Skills
 
